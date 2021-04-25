@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+c랑 파이썬 조금 알아요..
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+자세한 정보는 비밀입니다
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[nicek789@naver.com](mailto:nicek789@naver.com)
