@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 할 줄 아는 게 뭐예요?
 permalink: /about/
 ---
 
