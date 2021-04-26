@@ -9,7 +9,7 @@ name: 민돌의 코딩일기
 description:
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://i.pinimg.com/564x/c7/b8/11/c7b8113247fecd83bd9b5ed5bd3f34d5.jpg
+avatar: ./images/linux_logo.jpg
 
 #
 # Flags below are optional
