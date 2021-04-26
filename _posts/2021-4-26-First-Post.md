@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 직접 만든 블로그 시작
-excerpt: 나도 할 수 있다!
+excerpt: 사실 삘 받고 갑자기 만듬
 tags: [blog, jekyll, github, git]
 toc: true
 toc_sticky: true
