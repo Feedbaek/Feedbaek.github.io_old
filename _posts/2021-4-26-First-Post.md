@@ -1,11 +1,10 @@
 ---
 layout: post
 title: 직접 만든 블로그 시작
-excerpt: 사실 삘 받고 갑자기 만듬
+excerpt: 갑자기 블로거 되다
 tags: [blog, jekyll, github, git]
 toc: true
 toc_sticky: true
----
 ---
 
 안녕하세요, 민돌입니다.<br><br>
