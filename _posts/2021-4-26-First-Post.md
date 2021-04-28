@@ -16,4 +16,7 @@ toc_sticky: true
 ##### 방문해주셔서 감사합니다 :)
 
 ---
-`{% include disqus_comments.html %}`
+
+<div>
+    {% include disqus_comments.html %}
+</div>
