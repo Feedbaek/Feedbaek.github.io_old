@@ -1,7 +1,6 @@
 ---
-
 layout: category
-
-title: post
-
+title: POST
+category: post
+permalink: '/category/post'
 ---
