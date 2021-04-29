@@ -3,6 +3,7 @@ layout: post
 title: 직접 만든 블로그 시작
 excerpt: 갑자기 블로거 되다
 tags: [blog, jekyll, github, git]
+categories: post
 toc: true
 toc_sticky: true
 ---
